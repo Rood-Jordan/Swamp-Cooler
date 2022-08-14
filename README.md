@@ -1,5 +1,5 @@
 # Swamp-Cooler - Embedded Systems Semester Project
-Code for swamp cooler embedded system written in C / ANSI C
+Code for swamp cooler embedded system written in C++ / ANSI C
 
 This program can be used when hooked up to the specified hardware to run a swamp cooler type state 
 machine that monitors / displays the environments temperature and humidity.  If the system detects 
